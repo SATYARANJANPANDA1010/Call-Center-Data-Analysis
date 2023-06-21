@@ -1,4 +1,5 @@
 # Call-Center-Data-Analysis
+![png](https://github.com/SATYARANJANPANDA1010/Call-Center-Data-Analysis/assets/65615046/ec1785ca-8404-4f86-b8ce-d05a40c63d49)
 
 ## Below are the information/KPIs/demands to be performed in order to meet client’s requirement:
 
@@ -15,5 +16,7 @@
 #### 11	  Use Slicers to interactive with other charts by month and day wise.
 #### 12	  Finally, give the overall 2021 performance ratings 
 #### 13	  Use any suitable custom chart to show(give) overall 2021 performance satisfaction rating. 
+
+
 
 
